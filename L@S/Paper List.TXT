@@ -1,0 +1,140 @@
+https://arxiv.org/pdf/1711.06349.pdf
+
+
+Student skill and goal achievement in the Mapping with Google MOOC, 
+Monitoring MOOCs: Which Information Sources Do Instructors Value?
+Do professors matter? Using an A/B test to evaluate the impact of instructor involvement on MOOC student outcomes
+Divide and Correct: Using Clusters to Grade Short Answers at Scale
+Scaling short-answer grading by combining peer assessment with algorithmic scoring,
+Self-evaluation in Advanced Power Searching and Mapping with Google MOOCs
+Evaluating Educational Interventions at Scale: A Case Study in Making,
+
+Social Factors that Contribute to Attrition in MOOCs,
+Facilitating MOOCs Learning through Weekly Meet-up: A Case Study in Taiwan
+Talkabout: Small group discussions in massive global classes,
+Tracking Progress: Predictors of Students’ Weekly Achievement During a Circuits and Electronics MOOC,
+Automatic Coding Composition Evaluator
+"Why did you enroll in this course?" Developing a Standardized Survey Question for Reasons to Enroll,
+Improving Problem Solving Performance in Computer-Based Learning Environments through Subgoal Labels,
+Effective Sampling for Large-scale Automated Writing Evaluation Systems
+Addressing Common Analytic Challenges to Randomized Experiments in MOOCs: Attrition and Zero-Inflation
+The Prediction of Student First Response Using Prerequisite Skills
+BayesRank: A Bayesian Approach to Ranked Peer Grading
+Problems Before Solutions: Automated Problem Clarification at Scale
+
+
+----------------------------------------------
+Twards Capturing Learners Sentiment and Context
+----------------------------------------------
+
+Who You Are or What You Do: Comparing the Predictive Power of Demographics vs. Activity Patterns in Massive Open Online Courses (MOOCs)
+Behavior Prediction in MOOCs using Higher Granularity Temporal Information
+Analysis of a Large-Scale Formative Writing Assessment System with Automated Feedback
+Do Numeric Ratings Impact Peer Reviewers?
+Clustering Student Programming Assignments to Multiply Instructor Leverage
+
+------------------------------------------------
+Evaaluating the Relationship Between Course Structure, Learner Activity, and Perceived Value of Online Courses
+------------------------------------------------
+
+
+Does Online Q&A Activity Vary Based on Topic: A Comparison of Technical and Non-technical Stack Exchange Forums
+Effects of In-Video Quizzes on MOOC Lecture Viewing
+Explaining Student Behavior at Scale: The Influence of Video Complexity on Student Dwelling Time
+
+------------------------------------------------
+Learning Student and Content Embeddings for Personalized Lesson Sequence Recommendation
+
+perrsonalized Adaptive Learning using Neural Networks
+Preredicting Student Learning using Log Data from Interactive Simulations on Climate Change
+Framework for Topic Generation and Labeling from MOOC Discussions
+Predicting Students' Standardized Test Scores Using Online Homework
+Predicting Students' Performance: Incremental Interaction Classifiers
+Peer Reviewing Short Answers using Comparative Judgement
+Towards Cross-domain MOOC Forum Post Classification
+Promoting Student Engagement in MOOCs
+Deep Neural Networks and How They Apply to Sequential Education Data
+Peer Grading in a Course on Algorithms and Data Structures: Machine Learning Algorithms do not Improve over Simple Baselines
+------------------------------------------------
+
+The Role of Social Media in MOOCs: How to Use Social Media to Enhance Student Retention
+
+
+Learning about Teaching in Low-Resource Indian Contexts
+
+
+A Visual Approach towards Knowledge Engineering and Understanding How Students Learn in Complex Environments
+
+------------------------------------------------
+Detecting Diligence with Online Behaviors on Intelligent Tutoring Systems
+------------------------------------------------
+
+------------------------------------------------
+Scaling Expert Feedback: Two Case Studies
+------------------------------------------------
+
+A Crowdsourcing Approach to Collecting Tutorial Videos -- Toward Personalized Learning-at-Scale
+
+------------------------------------------------
+MOOC Dropout Prediction: How to Measure Accuracy?
+------------------------------------------------
+
+Google BigQuery for Education: Framework for Parsing and Analyzing edX MOOC Data
+
+
+------------------------------------------------
+A Memory-Augmented Neural Model for Automated Grading
+Modeling MOOC Student Behavior With Two-Layer Hidden Markov Models
+Applying and Exploring Bayesian Hypothesis Testing for Large Scale Experimentation in Online Tutoring Systems
+------------------------------------------------
+
+***Why did you drop out, multimodal behaviour analysis use data from assignments, piazza, 
+***Towards identitfication of important sections in large scale eassys for improving faster and improved peer grading. 
+***Peer Advising at Scale: Content and Context of a Learner-Owned Course Evaluation System
+
+Interesting ------> Long-Term Peer Reviewing Effort is Anti-Reciprocal
+
+A Probabilistic Approach for Discovering Difficult Course Topics Using Clickstream Data
+
+--------------------------------------------------
+Using Student Annotated Hashtags and Emojis to Collect Nuanced Affective States
+--------------------------------------------------
+
+
+-----------------------------------------------------
+Comment Ranking Diversification in Forum Discussions
+-----------------------------------------------------
+
+-----------------------------------------------------
+Experimenting Choices of Video and Text Feedback in Authentic Foreign Language Assignments at Scale
+-----------------------------------------------------
+
+
+Replicating MOOC predictive models at scale
+Addressing two problems in deep knowledge tracing via prediction-consistent regularization
+QG-net: a data-driven question generation model for educational content
+The relationship between scientific explanations and the proficiencies of content, inquiry, and writing
+
+----------------------------------------------------
+Adaptive natural-language targeting for student feedback
+----------------------------------------------------
+
+----------------------------------------------------
+WPSS: dropout prediction for MOOCs using course progress normalization and subset selection
+A deep learning model for automatic evaluation of academic engagement
+Multimedia learning principles at scale predict quiz performance
+----------------------------------------------------
+Representing and predicting student navigational pathways in online college courses
+Automatic Assessment of Complex Assignments using Topic Models
+Designing Digital Peer Assessment for Second Language Learning in Low Resource Learning Settings
+Scaling Up Writing in the Curriculum: Batch Mode Active Learning for Automated Essay Scoring
+
+----------------------------------------------------
+Key Phrase Extraction for Generating Educational Question-Answer Pairs
+Predict and Intervene: Addressing the Dropout Problem in a MOOC-based Program
+Towards Improving Students' Forum Posts Categorization in MOOCs and Impact on Performance Prediction
+Developing an Intervention to Advance Learning At Scale
+----------------------------------------------------
+Measuring Difficulty of Introductory Programming Tasks
+On the Influence of Grades on Learning Behavior of Students in MOOCs
+
